@@ -7,7 +7,7 @@
 // </copyright>
 // <summary>
 // Part of the Deployment Tools Foundation project.
-// </summary>
+// </summary> fgdfgdfg
 //---------------------------------------------------------------------
 
 namespace Microsoft.Deployment.WindowsInstaller
